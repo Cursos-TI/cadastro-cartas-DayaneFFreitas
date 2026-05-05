@@ -22,4 +22,4 @@ int main() {
     printf("Número grande atualizado (long int): %ld\n", bigNumber);
  
     return 0;
-}
+    
